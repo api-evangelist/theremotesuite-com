@@ -1,4 +1,4 @@
-# theremotesuite-com
+# The Remote Suite
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,121 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-theremotesuite-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://theremotesuite.com/
+The Remote Suite is an employee recognition platform designed for remote teams. It enables peer recognition that aligns with company values, offering AI‑powered tools like Ellie to celebrate achievements, boost engagement, and strengthen culture. The SaaS solution integrates with Slack and browsers, providing claps, appreciation sharing, and analytics to improve morale across distributed workforces.
+
+**Areas:** employee-recognition · remote-work · team-engagement · culture · SaaS
+
+## The Remote Suite on APIs.io
+
+Everything profiled for The Remote Suite is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/theremotesuite-com/](https://apis.io/providers/theremotesuite-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [The Remote Suite API](https://apis.io/apis/theremotesuite-com/the-remote-suite-api/) — Support centre provides the API reference for The Remote Suite.
+- [The Remote Suite API](https://apis.io/apis/theremotesuite-com/theremotesuite-com-api/) — The Remote Suite API as documented publicly: 2 operations. Contract generated from the documentation by API Evangelist (2026-10-30); not the provider's own…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (1)
+
+The data models the API reads and writes.
+
+- [GetMcpResponse](https://apis.io/schemas/theremotesuite-com/theremotesuite-com-get-mcp-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Theremotesuite Com Context](https://apis.io/jsonld/theremotesuite-com/theremotesuite-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [The Remote Suite API Rules](https://apis.io/rules/theremotesuite-com/theremotesuite-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Theremotesuite Com Authentication](https://apis.io/security/theremotesuite-com/theremotesuite-com-authentication/)
+- [Theremotesuite Com Domain Security](https://apis.io/security/theremotesuite-com/theremotesuite-com-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Theremotesuite Com Scopes](https://apis.io/scopes/theremotesuite-com/theremotesuite-com-scopes/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Theremotesuite Com Rate Limits](https://apis.io/rate-limits/theremotesuite-com/theremotesuite-com-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.theremotesuite.com/)
+- [Documentation](https://dev.theremotesuite.com/)
+- [Support](https://www.theremotesuite.com/support)
+- [Terms of service](https://www.theremotesuite.com/terms-and-conditions)
+- [Privacy policy](https://www.theremotesuite.com/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 43.3** — developing · rubric 0.25.0 · scored 2026-10-30
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 42.6 |
+| Contract governance | 79.1 |
+| Operational transparency | 18.9 |
+| Developer ergonomics | 26.2 |
+| Access clarity | 34.2 |
+
+**Agent readiness 38.6** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 34.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/theremotesuite-com/](https://apis.io/providers/theremotesuite-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for The Remote Suite: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/theremotesuite-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
